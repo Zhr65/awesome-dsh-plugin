@@ -1,6 +1,6 @@
 
-url: https://github.com/Zhr65/dsh-skill-auditor
-name: Zhr65/dsh-skill-auditor
+url: https://github.com/Zhr65/dsh-skill-auditor/tree/main/npm
+name: Zhr65/dsh-skill-auditor#npm
 category: dev
 description:
   en: 'Audits the skills and plugins you already installed: routes a task description to the tool it needs, flags version drift against the npm registry and runtime faults from host logs, and reports which of a plugin''s tools you never call. Registers 9 tools: can, find, status, recommend, check, scan, probe, run and suggest. Runs on Python 3.8+ with no third-party dependencies.'
